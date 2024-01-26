@@ -7,13 +7,23 @@ contract MyContract {
     // data type of variables
     string value;
 
+    // this will run without the get function
+    // string public value;
+
+    // this will run without the constructor
+    // string public value = "myValue"
+
+    // this will run without the set funtion
+    // string public constant stringValue = "myValue"
+
     constructor() {
         value = "myValue";
     }
 
     // get value
-    function get() public view returns(string memory){
-        return  value;
+    // data location must be memory
+    function get() public view returns (string memory) {
+        return value;
     }
 
     // update value
