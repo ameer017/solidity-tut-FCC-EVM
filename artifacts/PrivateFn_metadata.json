@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.8+commit.dddeac2f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"PrivateFn.sol": "PrivateFn"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"PrivateFn.sol": {
+			"keccak256": "0xd39f3722c3f6e2bfa93acd86e551e5864c3b97ad202e329641ae037de92562d4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://33d6f7e59d210e378d89c5948c8209fb4042fcc42ba749781175f4eeb2bdcc55",
+				"dweb:/ipfs/QmXRfaD9zH4bHUerzV3vPkWETL6eDiz55kJB7YzWUtp2ko"
+			]
+		}
+	},
+	"version": 1
+}
