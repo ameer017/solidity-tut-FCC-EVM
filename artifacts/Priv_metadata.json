@@ -79,7 +79,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"PrivateFn.sol": "PrivateFn"
+			"PrivateFn.sol": "Priv"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -94,11 +94,11 @@
 	},
 	"sources": {
 		"PrivateFn.sol": {
-			"keccak256": "0x9d12f6a8fe77550fdf08556533cce5e42b0843fa583eb00701d645b0243a57db",
+			"keccak256": "0x0dbc2c22e3ae7ea4bd326efd66a9ab541c70f419deee44056550e0b0ddfa24c8",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://ab553b5dbdefe944d6a278a655125290f8704c9f06d0fc82f2a8a141be3fcad5",
-				"dweb:/ipfs/QmPvg78kfLaDgfUNnjNkCeLTCox3XE9o8pbzhS7VR5k8wQ"
+				"bzz-raw://6de98b94dc0f7ad236ae51053c4e58cf168fde22d40d582d8724594e68b0f889",
+				"dweb:/ipfs/QmXhEWSYLdb3xHrp1bLoDRU5pjLo6PhNZEq1nNQy2xR2Cx"
 			]
 		}
 	},

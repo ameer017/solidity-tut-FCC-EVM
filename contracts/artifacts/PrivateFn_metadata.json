@@ -6,6 +6,11 @@
 	"output": {
 		"abi": [
 			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
 				"inputs": [
 					{
 						"internalType": "string",
@@ -79,7 +84,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"PrivateFn.sol": "PrivateFn"
+			"contracts/PrivateFn.sol": "PrivateFn"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -93,12 +98,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"PrivateFn.sol": {
-			"keccak256": "0x9d12f6a8fe77550fdf08556533cce5e42b0843fa583eb00701d645b0243a57db",
+		"contracts/PrivateFn.sol": {
+			"keccak256": "0x6e8a5ee05e9c29aae9facefa4623d560f2402df4706d875a63585e385b0cb5c7",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://ab553b5dbdefe944d6a278a655125290f8704c9f06d0fc82f2a8a141be3fcad5",
-				"dweb:/ipfs/QmPvg78kfLaDgfUNnjNkCeLTCox3XE9o8pbzhS7VR5k8wQ"
+				"bzz-raw://cefe98c1bf1f58272cdc117921f92a526066186fc7d30b5a0a384b861ecfdb54",
+				"dweb:/ipfs/QmYQQ9FkuGR1zZW4WpytQUgVNQDJyq7CxYErfeDeeucmA6"
 			]
 		}
 	},
