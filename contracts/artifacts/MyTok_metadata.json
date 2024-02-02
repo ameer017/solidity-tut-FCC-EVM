@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Inheritance.sol": "MultipleSC"
+			"contracts/Inheritance.sol": "MyTok"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/Inheritance.sol": {
-			"keccak256": "0x8588753515913345e604ef8a2965feef1be8a5f70a79d7b3bdb2a39788ac1290",
+			"keccak256": "0x8b78b40ba3428e85aaf583e33562fb7ba51987deb966366c180ca47a9aacebb1",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://e130d7580fbd0ea32f87c18f8b58f01970b9ba2e4f0c7ce789b267d61c1cde09",
-				"dweb:/ipfs/QmZgVsWfXvhqn2ck3LqSujktKPPCm4e9vQJ1wWEgb4dGUp"
+				"bzz-raw://9eb39ee1897ced657e5772d880b61d2b23ec10663dab7bbe8fdfdca131144d57",
+				"dweb:/ipfs/QmdrAGwV3UtTtuwGtHH7wmbWh5GVxtqCrncdiRW6c8G96V"
 			]
 		}
 	},
