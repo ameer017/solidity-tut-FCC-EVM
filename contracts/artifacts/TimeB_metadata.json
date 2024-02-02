@@ -84,7 +84,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/TimeFn.sol": "PrivateFn"
+			"contracts/TimeFn.sol": "TimeB"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -99,11 +99,11 @@
 	},
 	"sources": {
 		"contracts/TimeFn.sol": {
-			"keccak256": "0x6e8a5ee05e9c29aae9facefa4623d560f2402df4706d875a63585e385b0cb5c7",
+			"keccak256": "0xd35d281663365a32451dbd78b739e59b81b871d645e579fd7b0966f0fdb7cf34",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://cefe98c1bf1f58272cdc117921f92a526066186fc7d30b5a0a384b861ecfdb54",
-				"dweb:/ipfs/QmYQQ9FkuGR1zZW4WpytQUgVNQDJyq7CxYErfeDeeucmA6"
+				"bzz-raw://fd0e7b6831b840893e33bba76887fbad35e76f6b4683a62c9053ca2e1f946f5b",
+				"dweb:/ipfs/QmXdZSJW5JEfc5uv3k3JUCcyMqV3n2uadsfJLkANjccdxg"
 			]
 		}
 	},

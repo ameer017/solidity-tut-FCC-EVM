@@ -6,11 +6,6 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [],
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			},
-			{
 				"inputs": [
 					{
 						"internalType": "string",
@@ -84,7 +79,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/TimeFn.sol": "PrivateFn"
+			"contracts/TimeFn.sol": "TimeBasedFn"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -99,11 +94,11 @@
 	},
 	"sources": {
 		"contracts/TimeFn.sol": {
-			"keccak256": "0x6e8a5ee05e9c29aae9facefa4623d560f2402df4706d875a63585e385b0cb5c7",
+			"keccak256": "0xafe04f7e82db5fd07d6936f6618925da22ff782bb7e960d615ab7fe931fb0f8b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://cefe98c1bf1f58272cdc117921f92a526066186fc7d30b5a0a384b861ecfdb54",
-				"dweb:/ipfs/QmYQQ9FkuGR1zZW4WpytQUgVNQDJyq7CxYErfeDeeucmA6"
+				"bzz-raw://32f31ed047d977f0fcb6418439ee74c3bc1f2b5af104942cfc843c7e6cb1c308",
+				"dweb:/ipfs/QmPEaCNGxkMKvjKTmaUMoQ9pQoLMVEA45USwW4SQPRU1xW"
 			]
 		}
 	},
