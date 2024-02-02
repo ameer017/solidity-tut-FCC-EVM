@@ -1,0 +1,85 @@
+{
+	"compiler": {
+		"version": "0.8.8+commit.dddeac2f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_value1",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_value2",
+						"type": "uint256"
+					}
+				],
+				"name": "calculate",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "value",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Math__libraries.sol": "Math__libraries"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Math__libraries.sol": {
+			"keccak256": "0x91663de32735dec16e2d4bc3e864ad83973e128ff3bba7986b228f7bb8616779",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2c235378859389e74f7f5dc4e0624f82d2a85827b69e2d5a4e6b98e43672f209",
+				"dweb:/ipfs/QmNnpR1N5Z5Ww2YC5iCXWXaEK59Lfog2xzuDNXZxiYUNjf"
+			]
+		},
+		"contracts/SafeMath.sol": {
+			"keccak256": "0x25b0375f417e6ad2bd1504a517c8126af9e68006491b7cbbe0fa1168389610b9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7cc5f526fdfdf8c0a33cf67bac521fbe85edfbd3b0b48694e4203fad15741aea",
+				"dweb:/ipfs/Qme2iA4gwy4uZVoQ3eqUYAP11JDeGSWJcZ51QUtHK3Exwd"
+			]
+		}
+	},
+	"version": 1
+}

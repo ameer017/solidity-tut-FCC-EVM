@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Math__libraries.sol": "Name"
+			"contracts/Math__libraries.sol": "Ma"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/Math__libraries.sol": {
-			"keccak256": "0x5f1714f96f630b93f74218eec5b7c404bd811938646192d8358ab35c572d99ab",
+			"keccak256": "0x9e30765083d6392a8ae898047ea7a81666199fdab7b8fc18ed028389d8838e0f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://c8db86b1ce12bb2533b9127cedb75f843fbd0d74042b535d9193dbd07e4054cd",
-				"dweb:/ipfs/QmUsTKCKpqQALqTZVNChBkk5BqNhvGCgXVnnN6vPKbh5Fj"
+				"bzz-raw://8d825a289750f5f9fec806f9cdddec809ba12b4cf75c421d80bbbee13efb30b9",
+				"dweb:/ipfs/QmTdAvsw2Wj3dQwZb6SqPf4BTVm76ArR1EU7LoVAzjdQoj"
 			]
 		}
 	},
