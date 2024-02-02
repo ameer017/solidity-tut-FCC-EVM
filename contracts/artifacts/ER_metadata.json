@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/MultipleSC.sol": "Name"
+			"contracts/MultipleSC.sol": "ER"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/MultipleSC.sol": {
-			"keccak256": "0xf58807bf8ac18ea7f90962ffdb3242afa47f1915f037d22662fc92e196841e89",
+			"keccak256": "0x5d3f4d1ae5e710d03ab14103587e33c37aac74b5407af3c010f7400fbbcf6c02",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://2be044eaa29c30d91439b4cdb48d82ced297a40f098f729bc251e17ad7ba3d18",
-				"dweb:/ipfs/QmZuRYZJx8WDeRC2yCCZEncQ3RGRA5cMpHqnEUVWoHKNhh"
+				"bzz-raw://46926e58f291b2245053125954718ae292f46254fd2d3cd088af78873627dc26",
+				"dweb:/ipfs/QmQuk9gCf6BcnJpFbyBKk1EpgPxqSik8AvgLFXDLhsfv2m"
 			]
 		}
 	},

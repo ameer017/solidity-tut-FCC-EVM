@@ -8,36 +8,6 @@
 			{
 				"inputs": [
 					{
-						"internalType": "address payable",
-						"name": "_wallet",
-						"type": "address"
-					}
-				],
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			},
-			{
-				"anonymous": false,
-				"inputs": [
-					{
-						"indexed": true,
-						"internalType": "address",
-						"name": "_buyer",
-						"type": "address"
-					},
-					{
-						"indexed": false,
-						"internalType": "uint256",
-						"name": "_amount",
-						"type": "uint256"
-					}
-				],
-				"name": "Purchase",
-				"type": "event"
-			},
-			{
-				"inputs": [
-					{
 						"internalType": "address",
 						"name": "",
 						"type": "address"
@@ -56,14 +26,23 @@
 			},
 			{
 				"inputs": [],
-				"name": "buyToken",
+				"name": "mint",
 				"outputs": [],
-				"stateMutability": "payable",
+				"stateMutability": "nonpayable",
 				"type": "function"
 			},
 			{
-				"stateMutability": "payable",
-				"type": "receive"
+				"inputs": [],
+				"name": "name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -79,7 +58,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/MultipleSC.sol": "SendEthers"
+			"contracts/MultipleSC.sol": "ERC20Token"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -94,11 +73,11 @@
 	},
 	"sources": {
 		"contracts/MultipleSC.sol": {
-			"keccak256": "0x175e4bb9a0a57835d5d933fbbb1ab2c2805f3e681bc5731e76467d8e6cbb1f79",
+			"keccak256": "0x2fb4727879fc7b30c10b7a7dbb68fa855f0a4140ec2be13a6c70fc2db728e33a",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://e36201c1be3108dd9167dd396aceb9d2de9901894362a148c0b175336b9da24a",
-				"dweb:/ipfs/QmQnqQi2RiSUVwHwvKemSvHMk2CX2GS9rehMfxGv47SsiX"
+				"bzz-raw://9fe40a63cf40f9944d5e57bab389c9da36d1cb3d999a8ac43e7a616ac7d19b0c",
+				"dweb:/ipfs/QmNsiYX9BND88wojc5i1gD8TJsUChELXEBJPfND68xia6Z"
 			]
 		}
 	},

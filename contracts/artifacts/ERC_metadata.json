@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/MultipleSC.sol": "Name"
+			"contracts/MultipleSC.sol": "ERC"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/MultipleSC.sol": {
-			"keccak256": "0xf58807bf8ac18ea7f90962ffdb3242afa47f1915f037d22662fc92e196841e89",
+			"keccak256": "0xd268352873dda9298fa24aab16e56d1cbe90aac80d3f896adb0c47adde75b560",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://2be044eaa29c30d91439b4cdb48d82ced297a40f098f729bc251e17ad7ba3d18",
-				"dweb:/ipfs/QmZuRYZJx8WDeRC2yCCZEncQ3RGRA5cMpHqnEUVWoHKNhh"
+				"bzz-raw://13fc36c18d48f4b46d33616f86cff6184d0f8d1b306404a65152e2b984688eea",
+				"dweb:/ipfs/QmY8MEXs5hZVmsx1EefehcUtLd6qk9UuDU68LSd8veFuet"
 			]
 		}
 	},

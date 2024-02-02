@@ -79,7 +79,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/MultipleSC.sol": "SendEthers"
+			"contracts/MultipleSC.sol": "MultipleS"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -94,11 +94,11 @@
 	},
 	"sources": {
 		"contracts/MultipleSC.sol": {
-			"keccak256": "0x175e4bb9a0a57835d5d933fbbb1ab2c2805f3e681bc5731e76467d8e6cbb1f79",
+			"keccak256": "0x9491e0b374c32482bfcb3335fdfb164ba32c2558105f0921d60094f2d37b265e",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://e36201c1be3108dd9167dd396aceb9d2de9901894362a148c0b175336b9da24a",
-				"dweb:/ipfs/QmQnqQi2RiSUVwHwvKemSvHMk2CX2GS9rehMfxGv47SsiX"
+				"bzz-raw://4a1c624fd0da5c707bdaf17faf771bbb96f384cc9121266b536251028b136dfd",
+				"dweb:/ipfs/QmNnms6GkmYfHEqnrBfB9bsLDPZiGmAgkCaxkVXjA885t2"
 			]
 		}
 	},
